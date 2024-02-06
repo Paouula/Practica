@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+    margin: 0 auto 0 auto;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0 20px 0px;
+}
+
+.input1 label{
+    color: green;
+}
+
+.input2 label{
+    color: green;
+}
+
+.input1{
+    margin-top: 300px;
+}
+
+.input1 input{
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+.input2 input{
+    width: 500px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.boton{
+    margin-top: 10px;
+    color: white;
+    background: green;
+    border: none;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background: greenyellow;
+}
